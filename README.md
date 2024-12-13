@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm [Korawich Anuttra](https://github.com/korawica) 👋
 
-<!--
-**korawica/korawica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/psf/black](https://www.linkedin.com/in/korawica/))
 
-Here are some ideas to get you started:
+I am a data engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Talking about Personal Stuffs:**
+
+- I'm currently working on the [Data Engineer & Developer](https://github.com/ddeutils) organization.
+
+## My GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=korawica&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
