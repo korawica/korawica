@@ -7,10 +7,10 @@ I am a data engineer.
 
 As a data engineer, I enjoy using my programing skill make some interesting tools.
 
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs:
 
-- ☕ I'm currently working on the [Data Engineer & Developer](https://github.com/ddeutils) organization;
-- 🍺 I'm currently develop on the [Data Developer & Engineer Labs](https://github.com/dde-labs) organization;
+- ☕ I'm currently working on the [Data Developer & Engineer](https://github.com/ddeutils) organization;
+- 🍺 I'm currently R&D and POC on the [Data Developer & Engineer Labs](https://github.com/dde-labs) organization;
 
 ---
 
