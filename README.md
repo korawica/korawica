@@ -1,5 +1,7 @@
 ## Hi there, I'm [Korawich Anuttra](https://github.com/korawica) :wave:
 
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&style=flate&logoColor=ffdd54)
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/korawica/)
 [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/korawica)
 
