@@ -73,4 +73,4 @@ As a data engineer, I enjoy using my programing skill make some interesting tool
   <img height="180em" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korawica&layout=compact" />
 </p>
 
-![Korawica's Graph](https://github-readme-activity-graph.vercel.app/graph?username=korawica)
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
