@@ -11,7 +11,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Korawica">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Korawich%20Anuttra">「 Google Me 」</a>
     <br>
     「 I am a data developer and engineer from <b>Thailand</b> 」
     <br>
