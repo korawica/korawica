@@ -49,8 +49,8 @@ As a data engineer, I enjoy using my programing skill make some interesting tool
 - :coffee: I'm currently working on the [Data Developer & Engineer](https://github.com/ddeutils) and :test_tube: [Labs](https://github.com/dde-labs) organizations;
 - :beer: I have funny things for practice development skill on the [Just Pods](https://github.com/justpods) organization;
 
-[![CLIShelf](https://github-readme-stats.vercel.app/api/pin/?username=korawica&repo=clishelf)](https://github.com/korawica/clishelf)
-[![FmtUtil](https://github-readme-stats.vercel.app/api/pin/?username=korawica&repo=fmtutil)](https://github.com/korawica/fmtutil)
+ <!-- [![CLIShelf](https://github-readme-stats.vercel.app/api/pin/?username=korawica&repo=clishelf)](https://github.com/korawica/clishelf) -->
+ <!-- [![FmtUtil](https://github-readme-stats.vercel.app/api/pin/?username=korawica&repo=fmtutil)](https://github.com/korawica/fmtutil) -->
 
 ---
 
