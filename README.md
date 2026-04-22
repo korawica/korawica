@@ -13,7 +13,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Korawich%20Anuttra">「 Google Me 」</a>
     <br>
-    「 I am a data developer and engineer from <b>Thailand</b> 」
+    「 I am a data engineer and dataops from <b>Thailand</b> 」
     <br>
     <br>
   </samp>
@@ -28,9 +28,6 @@
   </a>
   <a href="https://github.com/korawica" target="blank">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&style=flate&logoColor=write" alt="korawica" />
-  </a>
-  <a href="https://github.com/korawica" target="blank">
-    <img src="https://img.shields.io/badge/rust-%23000000.svg?logo=rust&style=flate&logoColor=write" alt="korawica" />
   </a>
 </p>
 <p align="center">
