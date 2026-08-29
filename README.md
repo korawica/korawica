@@ -41,6 +41,13 @@
 
 As a data engineer, I enjoy using my programing skill make some interesting tools.
 
+### 🦾 What I’m Good At
+
+- 🧭 I love designing the development journey — turning ideas into scalable, production-ready systems.
+- 💰 I’m good at making pragmatic data strategy and solution decisions — balancing simplicity, scalability, and cost.
+- 🛠️ I love building frameworks and tools that make engineers move faster, not just writing pipelines.
+- 🧠 I enjoy turning recurring engineering problems into reusable frameworks, tools, and patterns.
+
 ### :round_pushpin: Talking about Personal Stuffs:
 
 - :coffee: I'm currently working on the [Data Developer & Engineer](https://github.com/ddeutils) and :test_tube: [Labs](https://github.com/dde-labs) organizations;
