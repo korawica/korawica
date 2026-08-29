@@ -64,10 +64,9 @@ As a data engineer, I enjoy using my programing skill make some interesting tool
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korawica" alt="Korawica's GitHub Contribution"/>
   </a>
 </p>
-
 <p float="left" align="center">
-  <img height="180em" width="350" src="https://github-readme-stats.vercel.app/api?username=korawica&show_icons=true&hide_border=true&include_all_commits=true" />
-  <img height="180em" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korawica&layout=compact" />
+  <img height="180em" width="350" src="https://github-stats-extended.vercel.app/api?username=korawica&show_icons=true&include_all_commits=true&theme=graywhite" />
+  <img height="180em" width="380" src="https://github-stats-extended.vercel.app/api/top-langs?username=korawica&langs_count=4&theme=swift" />
 </p>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
